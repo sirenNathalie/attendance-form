@@ -1,6 +1,6 @@
 {
     "name": "Attendance Form",
-    "short_name": "Attendance",
+    "short_name": "SP",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
